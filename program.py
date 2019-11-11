@@ -1,6 +1,6 @@
 def main():
     print('Hello, Git!')
-    print('Error 2')
+    print('Have a good day!')
 
 
 if __name__ == '__main__':
