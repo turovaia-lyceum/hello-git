@@ -1,5 +1,5 @@
 def main():
-    pass
+    print('Hello, Git!')
 
 
 if __name__ == '__main__':
